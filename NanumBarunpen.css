@@ -2,11 +2,19 @@
     font-family: 'Nanum Barunpen';
     font-weight: 400;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunpen/NanumBarunpen.otf');
+    font-display: swap;
+    src: url('https://cdn.statically.io/gh/fonts-archive/NanumBarunpen/main/NanumBarunpen.otf') format('opentype'),
+         url('https://cdn.statically.io/gh/fonts-archive/NanumBarunpen/main/NanumBarunpen.ttf') format('truetype'),
+         url('https://cdn.statically.io/gh/fonts-archive/NanumBarunpen/main/NanumBarunpen.woff') format('woff'),
+         url('https://cdn.statically.io/gh/fonts-archive/NanumBarunpen/main/NanumBarunpen.woff2') format('woff2');
 }
 @font-face {
     font-family: 'Nanum Barunpen';
     font-weight: 700;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunpen/NanumBarunpenBold.otf');
+    font-display: swap;
+    src: url('https://cdn.statically.io/gh/fonts-archive/NanumBarunpen/main/NanumBarunpenBold.otf') format('opentype'),
+         url('https://cdn.statically.io/gh/fonts-archive/NanumBarunpen/main/NanumBarunpenBold.ttf') format('truetype'),
+         url('https://cdn.statically.io/gh/fonts-archive/NanumBarunpen/main/NanumBarunpenBold.woff') format('woff'),
+         url('https://cdn.statically.io/gh/fonts-archive/NanumBarunpen/main/NanumBarunpenBold.woff2') format('woff2');
 }
