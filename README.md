@@ -1,6 +1,6 @@
 # Nanum Barunpen
 
-[Visit Source](https://hangeul.naver.com/font) · [Download Font Family](https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunpen/NanumBarunpen.zip)
+[Visit Source](https://hangeul.naver.com/font)
 
 &nbsp;
 
@@ -15,7 +15,7 @@ font-family: 'Nanum Barunpen';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunpen/NanumBarunpen.css"/>
+<link rel="stylesheet" href="https://cdn.statically.io/gh/fonts-archive/NanumBarunpen/main/NanumBarunpen.css"/>
 ```
 
 &nbsp;
@@ -23,7 +23,7 @@ link
 import
 
 ```
-@import url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunpen/NanumBarunpen.css');
+@import url('https://cdn.statically.io/gh/fonts-archive/NanumBarunpen/main/NanumBarunpen.css');
 ```
 
 &nbsp;
@@ -31,5 +31,5 @@ import
 URL
 
 ```
-https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunpen/NanumBarunpen.css
+https://cdn.statically.io/gh/fonts-archive/NanumBarunpen/main/NanumBarunpen.css
 ```
