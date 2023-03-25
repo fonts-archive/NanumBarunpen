@@ -15,7 +15,7 @@ font-family: 'Nanum Barunpen';
 link
 
 ```
-<link rel='stylesheet' href='https://cdn.statically.io/gh/fonts-archive/NanumBarunpen/main/NanumBarunpen.css'/>
+<link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunpen/NanumBarunpen.css'/>
 ```
 
 &nbsp;
@@ -23,7 +23,7 @@ link
 import
 
 ```
-@import url('https://cdn.statically.io/gh/fonts-archive/NanumBarunpen/main/NanumBarunpen.css');
+@import url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunpen/NanumBarunpen.css');
 ```
 
 &nbsp;
@@ -31,5 +31,5 @@ import
 URL
 
 ```
-https://cdn.statically.io/gh/fonts-archive/NanumBarunpen/main/NanumBarunpen.css
+https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunpen/NanumBarunpen.css
 ```
