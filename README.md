@@ -28,8 +28,27 @@ import
 
 &nbsp;
 
-URL
+font-face
 
 ```
-https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunpen/NanumBarunpen.css
+@font-face {
+    font-family: 'Nanum Barunpen';
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunpen/NanumBarunpen.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunpen/NanumBarunpen.ttf') format('truetype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunpen/NanumBarunpen.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunpen/NanumBarunpen.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Nanum Barunpen';
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunpen/NanumBarunpenBold.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunpen/NanumBarunpenBold.ttf') format('truetype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunpen/NanumBarunpenBold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunpen/NanumBarunpenBold.woff2') format('woff2');
+}
 ```
