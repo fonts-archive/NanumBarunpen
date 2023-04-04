@@ -15,7 +15,7 @@ font-family: 'Nanum Barunpen';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunpen/NanumBarunpen.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunpen/NanumBarunpen.css" type="text/css"/>
 ```
 
 &nbsp;
